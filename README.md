@@ -32,8 +32,7 @@
 
 <!-- ========================== 🌈 SEPARATOR ========================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="360"/>
-<!-- ========================== 👁️ PROFILE BADGES ========================== -->
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="360"/><!-- ========================== 👁️ PROFILE BADGES ========================== -->
 
 <div align="center">
   
