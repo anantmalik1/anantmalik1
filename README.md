@@ -32,7 +32,9 @@
 
 <!-- ========================== 🌈 SEPARATOR ========================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="360"/><!-- ========================== 👁️ PROFILE BADGES ========================== -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ========================== 👁️ PROFILE BADGES ========================== -->
 
 <div align="center">
   
