@@ -1,276 +1,492 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                                                                               -->
+<!--   ██████╗ ███╗   ██╗ █████╗ ███╗   ██╗████████╗                              -->
+<!--  ██╔═══██╗████╗  ██║██╔══██╗████╗  ██║╚══██╔══╝                              -->
+<!--  ███████║██╔██╗ ██║███████║██╔██╗ ██║   ██║                                  -->
+<!--  ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║   ██║                                  -->
+<!--  ██║  ██║██║ ╚████║██║  ██║██║ ╚████║   ██║                                  -->
+<!--  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝                              -->
+<!--                                                                               -->
+<!--              🧠 AI / ML Engineer | Python Developer                           -->
+<!--              ⚡ Building the Future with Artificial Intelligence              -->
+<!--                                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!--                     ANANT RAJ MALIK PROFILE                    -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================== 🌊 ANIMATED BANNER ========================== -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:a855f7&height=230&section=header&text=ANANT%20RAJ%20MALIK&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20/%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20the%20Future%20with%20AI&descSize=16&descAlignY=55&animation=twinkling" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:00d4ff,75:a855f7,100:0d1117&height=250&section=header&text=ANANT%20RAJ%20MALIK&fontColor=ffffff&fontSize=50&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20the%20Future%20with%20AI&descSize=17&descAlignY=55&animation=twinkling&strokeWidth=2" width="100%"/>
 </div>
 
----
-
-# ⌨️ AI TERMINAL INTRO
+<!-- ========================== ⌨️ TYPING ANIMATION ========================== -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=120&lines=%3E+Initializing+AI+Systems...;%3E+Loading+Neural+Networks...;%3E+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%3E+Let's+Build+Something+Intelligent+Together+%F0%9F%A7%A0" />
-
+  <a href="https://github.com/anantmalik1">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%94%B9+Initializing+AI+Systems...;%F0%9F%94%B9+Loading+Neural+Networks...;%F0%9F%94%B9+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%F0%9F%94%B9+Let's+Build+Something+Intelligent+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br/>
+
+<!-- ========================== 🌈 SEPARATOR ========================== -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
-
-# 👁 PROFILE STATS
+<!-- ========================== 👁️ PROFILE BADGES ========================== -->
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=anantmalik1\&style=for-the-badge\&color=00d4ff)
-
-![Followers](https://img.shields.io/github/followers/anantmalik1?style=for-the-badge\&color=a855f7)
-
-![Stars](https://img.shields.io/github/stars/anantmalik1?style=for-the-badge\&color=00ff88)
+  
+  <a href="https://github.com/anantmalik1"><img src="https://komarev.com/ghpvc/?username=anantmalik1&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/></a>&nbsp;
+  <a href="https://github.com/anantmalik1?tab=followers"><img src="https://img.shields.io/github/followers/anantmalik1?style=for-the-badge&color=a855f7&labelColor=0d1117&label=Followers" alt="Followers"/></a>&nbsp;
+  <a href="https://github.com/anantmalik1?tab=repositories"><img src="https://img.shields.io/github/stars/anantmalik1?style=for-the-badge&color=00ff88&labelColor=0d1117&label=Total+Stars" alt="Stars"/></a>
 
 </div>
 
----
+<br/>
 
-# 🧬 ABOUT ME — SYSTEM.INIT()
+<!-- ========================== 🧬 AI BANNER IMAGE ========================== -->
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="100%"/>
+</div>
 
-```python
-class AnantAIEngineer:
+<br/>
 
-    def __init__(self):
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-        self.name = "Anant Raj Malik"
+<!-- ========================== 🧬 ABOUT ME ========================== -->
 
-        self.role = "AI / ML Engineer"
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;**`ABOUT ME — SYSTEM.INIT()`**
 
-        self.education = "B.Tech Computer Science — Quantum University"
+<br/>
 
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "Natural Language Processing",
-            "AI Agents",
-            "Data Science"
-        ]
+<div align="center">
+<table>
+<tr>
+<td>
 
-    def mission(self):
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
 
-        return "Transforming data into intelligent systems"
-
-    def build(self):
-
-        return "Designing scalable AI applications"
-
-
-anant = AnantAIEngineer()
-
-print(anant.mission())
-print(anant.build())
+```js
+// ─── 𝙰𝙽𝙰𝙽𝚃 𝚁𝙰𝙹 𝙼𝙰𝙻𝙸𝙺 ── AI CORE v2.0 ───────────────
+//
+//  ┌──────────────────────────────────────────────┐
+//  │  👤  Name       → Anant Raj Malik            │
+//  │  🧠  Role       → AI / ML Engineer           │
+//  │  🎓  Education  → B.Tech CSE                 │
+//  │  🏫  University → Quantum University         │
+//  │  🌍  Languages  → Hindi, English             │
+//  │  ⚡  Passion    → Intelligent Systems        │
+//  └──────────────────────────────────────────────┘
+//
+//  STATUS: 🟢 Online | Building the future with AI
+//  MISSION: Transform data into intelligence
+//
+// ─────────────────────────────────────────────────
 ```
 
-* 🧠 Passionate **AI Developer** building intelligent systems
-* 🎓 **B.Tech Computer Science — Quantum University**
-* 🔬 Exploring **Deep Learning, NLP, LLMs & AI Agents**
-* ⚡ Building **real-world machine learning systems**
-
-<br clear="right"/>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
-
-# 🎯 CURRENT FOCUS
-
-| 🧠 Deep Learning | 💬 NLP | 🤖 LLMs | 🕵️ AI Agents | 📊 Data Science | ⚙️ MLOps |
-| :--------------: | :----: | :-----: | :-----------: | :-------------: | :------: |
-|      Active      | Active |  Active |     Active    |      Active     | Learning |
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
-
-# 🛠 TECH STACK
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+</td>
+</tr>
+</table>
+</div>
 
 <div align="center">
 
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
-
-### Data Science
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql,mongodb"/>
+> 🧠 *Passionate AI Developer focused on building intelligent systems, machine learning models, and automation tools.*
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+|  |  |  |
+|:--:|:--:|:--:|
+| 🔬 Currently exploring **Deep Learning & LLMs** | 🤖 Building **ML Models & AI Agents** | ⚡ Fun Fact: *I debug neural networks for fun* 🧪 |
+| 🎓 **B.Tech CSE** @ **Quantum University** | 🌱 Learning **NLP & Computer Vision** | 💡 Turning coffee into **intelligent code** ☕ |
+
+</div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+<!-- ========================== 🎯 CURRENT FOCUS ========================== -->
 
-# 🚀 FEATURED PROJECTS
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;**`CURRENT FOCUS — TARGET.LOCK()`**
+
+<br/>
 
 <div align="center">
 
 <table>
-
 <tr>
-
-<td width="50%">
-
-### 🎙 Sentra — Offline AI Voice Assistant
-
-<a href="https://github.com/anantmalik1/Sentra-Modular-offline-Voice-Assistant">
-
-<img src="https://opengraph.githubassets.com/1/anantmalik1/Sentra-Modular-offline-Voice-Assistant"/>
-
-</a>
-
-AI powered voice assistant using **offline NLP and speech recognition**
-
-✔ Voice commands
-✔ Offline automation
-✔ AI interaction
-
+<td align="center" width="16%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br/>
+<b>Deep Learning</b><br/>
+<img src="https://img.shields.io/badge/🔥-Active-00d4ff?style=flat-square" />
 </td>
-
-<td width="50%">
-
-### ❤️ Heart Disease Prediction
-
-<a href="https://github.com/anantmalik1/Heart-Disease-Model-ML-">
-
-<img src="https://opengraph.githubassets.com/1/anantmalik1/Heart-Disease-Model-ML-"/>
-
-</a>
-
-Machine learning model predicting **heart disease risk**
-
-✔ ML classification
-✔ Data preprocessing
-✔ Streamlit interface
-
+<td align="center" width="16%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br/>
+<b>NLP</b><br/>
+<img src="https://img.shields.io/badge/🔥-Active-a855f7?style=flat-square" />
 </td>
-
+<td align="center" width="16%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br/>
+<b>LLMs</b><br/>
+<img src="https://img.shields.io/badge/🔥-Active-00ff88?style=flat-square" />
+</td>
+<td align="center" width="16%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b72-980d-0036f5835d82.gif" width="80"><br/>
+<b>AI Agents</b><br/>
+<img src="https://img.shields.io/badge/🔥-Active-ff6b6b?style=flat-square" />
+</td>
+<td align="center" width="16%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br/>
+<b>Data Science</b><br/>
+<img src="https://img.shields.io/badge/🔥-Active-ffd700?style=flat-square" />
+</td>
+<td align="center" width="16%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"><br/>
+<b>MLOps</b><br/>
+<img src="https://img.shields.io/badge/🔥-Active-ff69b4?style=flat-square" />
+</td>
 </tr>
-
 </table>
 
 </div>
 
----
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+<!-- ========================== 🛠️ TECH STACK ========================== -->
 
-# 📊 GITHUB ANALYTICS
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> &nbsp;**`TECH ARSENAL — WEAPONS.LOADED()`**
+
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anantmalik1&show_icons=true&theme=radical"/>
+### ⚡ **Languages & Frameworks**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantmalik1&layout=compact&theme=radical"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=10" />
 
-<br>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantmalik1&theme=radical"/>
+### 🧠 **AI / ML & Data Science**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10" />
+
+<br/><br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<br/>
+
+### 🗄️ **Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=10" />
+
+<br/><br/>
+
+### ⚙️ **Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,anaconda&theme=dark&perline=10" />
+
+<br/><br/>
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)&nbsp;
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
----
+<br/>
+
+<!-- ========================== 🧠 AI ANIMATION ========================== -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+<!-- ========================== 🚀 FEATURED PROJECTS ========================== -->
 
-# 📈 CONTRIBUTION GRAPH
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> &nbsp;**`FEATURED PROJECTS — DEPLOY.LAUNCH()`**
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anantmalik1&theme=react-dark"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
+<br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<!-- ── PROJECT 1: SENTRA ── -->
+
+<a href="https://github.com/anantmalik1/Sentra-Modular-offline-Voice-Assistant">
+  <img src="https://socialify.git.ci/anantmalik1/Sentra-Modular-offline-Voice-Assistant/image?description=1&descriptionEditable=%F0%9F%97%A3%EF%B8%8F%20Offline%20AI%20Voice%20Assistant%20%E2%80%94%20Voice%20Recognition%20%7C%20System%20Control%20%7C%20Conversational%20AI&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fimg.icons8.com%2Fnolan%2F200%2Fvoice-id.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="90%" alt="Sentra"/>
+</a>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-00d4ff?style=for-the-badge&logo=spacy&logoColor=white)&nbsp;
+![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-a855f7?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+![Offline AI](https://img.shields.io/badge/Offline_AI-00ff88?style=for-the-badge)&nbsp;
+![Automation](https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge&logo=robot-framework&logoColor=white)
+
+<br/>
+
+> 🗣️ **Sentra** — A modular offline voice assistant powered by local AI. Features voice recognition, system control, conversational AI, and full offline NLP processing. No internet needed.
+
+<br/><br/>
+
+<!-- ── PROJECT 2: HEART DISEASE ── -->
+
+<a href="https://github.com/anantmalik1/Heart-Disease-Model-ML-">
+  <img src="https://socialify.git.ci/anantmalik1/Heart-Disease-Model-ML-/image?description=1&descriptionEditable=%E2%9D%A4%EF%B8%8F%20ML-Based%20Heart%20Disease%20Prediction%20%E2%80%94%20Classification%20Models%20%7C%20Streamlit%20UI&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fimg.icons8.com%2Fnolan%2F200%2Fheart-with-pulse.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="90%" alt="Heart Disease Model"/>
+</a>
+
+<br/><br/>
+
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00d4ff?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Data Science](https://img.shields.io/badge/Data_Science-a855f7?style=for-the-badge)
+
+<br/>
+
+> ❤️‍🔬 **Heart Disease Risk Prediction** — Machine learning system predicting heart disease risk using classification models with an interactive Streamlit interface. Real-time predictions with visual analytics.
 
 </div>
 
----
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+<!-- ========================== 📊 GITHUB STATS ========================== -->
 
-# 🏆 ACHIEVEMENTS
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> &nbsp;**`GITHUB ANALYTICS — DATA.STREAM()`**
 
-🏆 Hackathon participant
-🏆 Built AI solution within **24 hours**
-🏆 Organized coding competitions
-
----
-
-# 💬 DEV QUOTE
+<br/>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anantmalik1&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=a855f7&text_color=c9d1d9&ring_color=00d4ff&rank_icon=github" height="195"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantmalik1&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=c9d1d9&langs_count=8" height="195"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantmalik1&theme=radical&background=0d1117&hide_border=true&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=a855f7&currStreakNum=00ff88&sideNums=00ff88&dates=8b949e" width="700"/>
 
 </div>
 
----
+<br/>
 
-# 📡 CONNECT WITH ME
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ========================== 📈 ACTIVITY GRAPH ========================== -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp;**`CONTRIBUTION GRAPH — NEURAL.ACTIVITY()`**
+
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github)](https://github.com/anantmalik1)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/anantrajmalik)
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail)](mailto:anantmalik124@gmail.com)
+[![Anant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anantmalik1&bg_color=0d1117&color=00d4ff&line=a855f7&point=00ff88&area=true&area_color=a855f740&hide_border=true&custom_title=%E2%9A%A1%20Anant's%20Neural%20Activity%20Graph%20%E2%9A%A1)](https://github.com/anantmalik1)
 
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ========================== 🐍 SNAKE ANIMATION ========================== -->
+
+## 🐍 &nbsp;**`CONTRIBUTION SNAKE — PYTHON.SLITHER()`**
+
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=4000&pause=1000&color=8b949e&center=true&width=500&lines=Crafted+with+passion+by+Anant+Raj+Malik;AI+is+not+the+future+it's+the+present;Let's+build+something+extraordinary"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:a855f7&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================== 🏆 ACHIEVEMENTS ========================== -->
+
+## 🏆 &nbsp;**`ACHIEVEMENTS — TROPHIES.UNLOCKED()`**
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anantmalik1&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/anantmalik1)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br/>
+<b>🧠 ML & AI Specialist</b><br/>
+<sub>Building intelligent systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b72-980d-0036f5835d82.gif" width="80"><br/>
+<b>🌟 Open Source Contributor</b><br/>
+<sub>Contributing to the community</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br/>
+<b>⚡ Hackathon Participant</b><br/>
+<sub>Competing & innovating</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"><br/>
+<b>🎓 B.Tech CSE Student</b><br/>
+<sub>Quantum University</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ========================== 💭 DEV QUOTE ========================== -->
+
+## 💭 &nbsp;**`DEV QUOTE — WISDOM.GENERATE()`**
+
+<br/>
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
+> — **Edsger W. Dijkstra**
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ========================== 🎧 SPOTIFY / CODING VIBES ========================== -->
+
+## 🎧 &nbsp;**`CODING VIBES — AUDIO.STREAM()`**
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f12c901b2.gif" width="300"/>
+
+<br/><br/>
+
+```
+🎵 Currently Coding To: Lo-Fi Neural Beats 🎵
+████████████████████████████████░░░░░░ 82%
+```
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ========================== 📡 CONNECT ========================== -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> &nbsp;**`CONNECT WITH ME — LINK.ESTABLISH()`**
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/anantmalik1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/anantrajmalik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/anantrajmalik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;&nbsp;
+<a href="mailto:anantrajmalik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   📧 anantrajmalik@gmail.com                                    ║
+║   🔗 github.com/anantmalik1                                     ║
+║   💼 linkedin.com/in/anantrajmalik                               ║
+║   🐦 twitter.com/anantrajmalik                                   ║
+║                                                                  ║
+║   💬 "Open to collaborations on AI/ML projects!"                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!-- ========================== 🔥 ANIMATED METRICS ========================== -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ========================== ⚡ FOOTER ========================== -->
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%E2%9A%A1+Crafted+with+passion+by+Anant+Raj+Malik+%E2%9A%A1;%F0%9F%A7%A0+AI+is+not+the+future%2C+it's+the+present+%F0%9F%A7%A0;%F0%9F%9A%80+Let's+build+something+extraordinary+%F0%9F%9A%80;%F0%9F%94%A5+Turning+data+into+intelligence+since+Day+1+%F0%9F%94%A5" alt="Footer" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,25:1a0533,50:00d4ff,75:a855f7,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                     ⚡ Made with 💜 by Anant Raj Malik ⚡                     -->
+<!--            🧠 AI Engineer | Building Intelligence, One Commit at a Time       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
