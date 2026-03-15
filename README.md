@@ -87,8 +87,7 @@
 
 </td>
 <td>
-<img src="https://user-images.githubusercontent.com/74038190/212284090-9a7f68f0-bae2-4c24-8b71-1c7c29c2c9c4.gif" width="360"/></td>
-</tr>
+<img src="https://user-images.githubusercontent.com/74038190/212284103-4f7b7c6b-bd37-4db8-b6b7-30f6c7f4c7c0.gif" width="360"/></tr>
 </table>
 </div>
 
