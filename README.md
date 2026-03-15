@@ -1,87 +1,155 @@
-<!-- ================= MATRIX BANNER ================= -->
+<h1 align="center">Hi 👋, I'm Anant Raj Malik</h1>
+<h3 align="center">🤖 AI/ML Engineer | Python Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=250&section=header&text=ANANT%20MALIK&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Anant+Malik;AI+%26+ML+Enthusiast;Python+Developer;Building+Real+World+AI+Solutions;Future+AI+Engineer+🚀"/>
-</h1>
-
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Intelligent+Systems;Always+Learning+New+Things;Future+AI+Architect" />
 </p>
 
 ---
 
 # 🧠 About Me
 
-```python
-class AnantMalik:
+🎓 B.Tech CSE Student  
+🤖 Passionate about **AI / Machine Learning / Automation**  
+💻 Building **real-world ML systems & intelligent applications**  
+📊 Love working with **data, algorithms and AI models**
 
-    def __init__(self):
-        self.role = "AI & ML Enthusiast"
-        self.learning = [
-            "Advanced Deep Learning",
-            "MLOps",
-            "Cloud Technologies"
-        ]
+🚀 Currently working on advanced **AI based automation systems**
 
-        self.ask_me_about = [
-            "Python",
-            "Machine Learning",
-            "Data Analysis",
-            "Artificial Intelligence"
-        ]
+---
 
-        self.email = "anantmalik124@gmail.com"
-
-    def fun_fact(self):
-        return "I trust data more than guesses 📊😉"
-
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:anantmalik124@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/> </a> </p>
-
-🚀 Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,r,html,css,js" /> </p>
-
-🤖 AI / ML & Data Science
-<p align="center"> <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/> <img src="https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Keras-darkred?style=for-the-badge&logo=keras"/> <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-teal?style=for-the-badge"/> <img src="https://img.shields.io/badge/Plotly-purple?style=for-the-badge"/> </p>
-
-🛠 Tools & Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Google%20Colab-yellow?style=for-the-badge"/> </p>
-
-☁ Databases & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp"/> </p>
-
-
-🎨 Design Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=figma"/> <img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge"/> </p>
-
-
-📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anantmalik1&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantmalik1&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-
-
-🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantmalik1&theme=tokyonight&hide_border=true"/> </p>
-
-
-📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anantmalik1&theme=tokyo-night"/>
-
-
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/> </p>
-👁 Visitor Counter
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anantmalik1&style=for-the-badge&color=blueviolet"/> </p>
-
-⚡ AI Quote
-
-“Artificial Intelligence is the new electricity powering the future.”
+# 🌐 Connect With Me
 
 <p align="center">
 
-⭐ From Anant Malik with ❤️
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</p> ```
+<a href="mailto:anantmalik124@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+### 👨‍💻 Programming
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+### 🤖 AI / Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)
+
+---
+
+### 📊 Data Analysis
+
+![Matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/seaborn-blue?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/plotly-purple?style=for-the-badge)
+
+---
+
+### 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
+
+---
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter)
+
+---
+
+# 🚀 Featured Projects
+
+### 🎙 Sentra – Offline AI Voice Assistant
+
+⚡ AI automation assistant using **speech recognition + NLP**
+
+Features:
+
+✔ Voice command automation  
+✔ Intent classification  
+✔ Offline processing system  
+✔ Smart workflow automation  
+
+---
+
+### ❤️ AI Heart Disease Risk Prediction
+
+Machine learning model predicting **heart disease risk**
+
+✔ Data preprocessing  
+✔ Feature engineering  
+✔ ML model training  
+✔ Streamlit interactive UI  
+
+Accuracy achieved: **87%**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anantmalik1&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantmalik1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anantmalik1&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏆 Hackathon Participant – Built AI solution in **24 hours**  
+🎤 Organized coding competitions for **150+ participants**  
+📚 AI Webinar – *Building your own College AI Assistant*
+
+---
+
+# 💡 Quote
+
+> "Code is poetry, data is truth, and machine learning is magic."
+
+---
+
+# 🚀 Future Goals
+
+✔ Build advanced **Agentic AI systems**  
+✔ Contribute to **open source AI tools**  
+✔ Develop **real-world intelligent products**
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
