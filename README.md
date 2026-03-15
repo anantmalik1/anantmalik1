@@ -20,9 +20,11 @@
 
 <!-- ========================== ⌨️ TYPING ANIMATION ========================== -->
 
+<!-- ========================== ⌨️ TYPING ANIMATION ========================== -->
+
 <div align="center">
   <a href="https://github.com/anantmalik1">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%94%B9+Initializing+AI+Systems...;%F0%9F%94%B9+Loading+Neural+Networks...;%F0%9F%94%B9+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%F0%9F%94%B9+Let's+Build+Something+Intelligent+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=160&lines=%F0%9F%94%B9+Initializing+AI+Systems...;%F0%9F%94%B9+Loading+Neural+Networks...;%F0%9F%94%B9+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%F0%9F%94%B9+Let's+Build+Something+Intelligent+Together+%F0%9F%A7%A0" />
   </a>
 </div>
 
